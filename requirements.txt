@@ -1,0 +1,13 @@
+# PDF + imaging
+PyMuPDF==1.26.3
+pillow>=10.3
+
+# Vector DB
+chromadb==1.0.16
+
+# OpenAI SDK (v1)
+openai>=1.40.0
+
+# Utils
+tqdm>=4.66.4
+rich>=13.7.1
